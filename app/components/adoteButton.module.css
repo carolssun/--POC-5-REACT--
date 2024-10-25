@@ -1,0 +1,28 @@
+.adoteButton {
+  background-color: #f0f0f0;
+  display: flex;
+  width: 280px;
+  align-items: center;
+  gap: 10px;
+  padding: 0 10px;
+  border-radius: 30px;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.adoteButton:hover {
+  background-color: rgb(248, 210, 217);
+}
+
+.adoteButton img {
+  width: 20%;
+  height: auto;
+  padding: 7px 0px;
+}
+
+.selected {
+  background-color: pink;
+  color: #fff;
+}

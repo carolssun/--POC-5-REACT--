@@ -2,17 +2,17 @@
 # <h1 align="center">POC 5 - React </h1>
 
 ## Sumário
-* [Estrutura do Projeto NextJS](https://github.com/carolssun/--POC-5-REACT--/README.md#estrutura-do-projeto-nextjs)
-  * [app](https://github.com/carolssun/--POC-5-REACT--/README.md#app)
-  * [public](https://github.com/carolssun/--POC-5-REACT--/README.md#public)
-  * [Arquivos de Configuração](https://github.com/carolssun/--POC-5-REACT--/README.md#arquivos-de-configura%C3%A7%C3%A3o)
-* [Componentes Simples](https://github.com/carolssun/--POC-5-REACT--/README.md#cria%C3%A7%C3%A3o-de-componentes-simples)
-  * [Botão](https://github.com/carolssun/--POC-5-REACT--/README.md#bot%C3%A3o)
-  * [Banner](https://github.com/carolssun/--POC-5-REACT--/README.md#banner)
-* [Estilo CSS](https://github.com/carolssun/--POC-5-REACT--/edit/main/README.md#estilo-css-global-e-m%C3%B3dulo)
-   * [Global](https://github.com/carolssun/--POC-5-REACT--/edit/main/README.md#bot%C3%A3o-1)
-   * [Modulo](https://github.com/carolssun/--POC-5-REACT--/edit/main/README.md#m%C3%B3dulo)
-* [Autoras](https://github.com/carolssun/--POC-5-REACT--/edit/main/README.md#autoras)
+* [Estrutura do Projeto NextJS](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#estrutura-do-projeto-nextjs)
+  * [app](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#app)
+  * [public](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#public)
+  * [Arquivos de Configuração](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#arquivos-de-configura%C3%A7%C3%A3o)
+* [Componentes Simples](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#cria%C3%A7%C3%A3o-de-componentes-simples)
+  * [Botão](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#bot%C3%A3o)
+  * [Banner](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#banner)
+* [Estilo CSS](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#estilo-css-global-e-m%C3%B3dulo)
+   * [Global](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#global)
+   * [Modulo](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#m%C3%B3dulo)
+* [Autoras](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#autoras)
 
    
 # Estrutura do Projeto NextJS 

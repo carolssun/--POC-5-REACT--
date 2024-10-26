@@ -20,6 +20,7 @@
 Desde a versão 13, Next.js introduziu o App Router como um novo sistema de roteamento. Essa pasta substitui a antiga pasta pages, que era usada para criar rotas com base em arquivos.Dentro da pasta app, cada subpasta representa uma rota. Esta pasta é essencial para aplicação, porque é onde são definidas as rotas e componentes principais e ela contem subpastas para melhorar a organização:
 
 - **`components`**: Pasta exclusiva para componentes que serão reutilizados ao longo do projeto.
+  
 - **`favicon.ico`**: Arquivo de ícone de favorito. Esse ícone é exibido na aba do navegador ao lado do título da página, nos favoritos, e também em outros lugares onde o site está.
 - **`globals.css`**: Este arquivo contém os estilos globais da aplicação. No `globals.css`  os estilos são aplicados em todas as aplicações. É o local ideal para definir estilos universais, pois, ele é carregado uma vez e afeta todos os componentes e páginas da aplicação.
 ```css
@@ -114,6 +115,8 @@ Desde a versão 13, Next.js introduziu o App Router como um novo sistema de rote
 ## public
 A pasta public armazena arquivos estáticos, como imagens e fontes. Qualquer arquivo nesta pasta pode ser acessado diretamente através de uma URL.
 
+![Captura de tela 2024-10-25 200240](https://github.com/user-attachments/assets/e2b42aec-5310-45d1-8e56-2c735d6ddff4)
+
 ## Arquivos de Configuração
 - **`.eslintrc.json`**: Arquivo de configuração do ESLint, utilizado para garantir a qualidade do código, definindo regras de formatação e boas práticas.
 
@@ -138,6 +141,28 @@ A pasta public armazena arquivos estáticos, como imagens e fontes. Qualquer arq
 ***
 
 # Criação de componentes simples
+
+  Em React, os imports são essenciais para trazer componentes, hooks, e outras funcionalidades de bibliotecas ou arquivos para o seu projeto. Esses são alguns aspectos importantes sobre imports em React:
+
+  ### Importação de Componentes:
+
+   Você pode importar componentes de outros arquivos usando a sintaxe `import NomeDoComponente from ./Caminho/Para/Componente `. Isso permite que você reutilize componentes em diferentes partes da sua aplicação.
+
+  ### Importação de Hooks:
+
+   Hooks como `useState`, `useEffect`, etc., são importados da biblioteca React com import { useState, useEffect } from 'react'. Esses hooks permitem que você gerencie estado e efeitos colaterais em componentes funcionais.
+
+  ### Importação de Bibliotecas:
+
+   Além de componentes e hooks, você pode importar bibliotecas de terceiros, como axios para requisições HTTP ou react-router-dom para navegação em aplicações React.
+
+  ### Importação de Estilos:
+
+   Você pode importar arquivos `CSS` diretamente em seus componentes, como `import './Estilos.css'`, permitindo que você estilize seus componentes de forma modular.
+
+  ### Importação de Imagens:
+
+   É comum importar imagens para usar como recursos em componentes, por exemplo: `import imagem from './imagem.png'`.
 
 ## Botão
 O componente simples desenvolvido para essa POC foi o botão de “Quero Adotar”, que quando selecionado fica com a aparência colorida.

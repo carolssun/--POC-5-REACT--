@@ -14,7 +14,13 @@
    * [Modulo](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#m%C3%B3dulo)
 * [Autoras](https://github.com/carolssun/--POC-5-REACT--?tab=readme-ov-file#autoras)
 
-   
+# Objetivo
+Estaa Prova de Conceito (PoC) com React, usando uma página de adoção de gatos, ensina os principais recursos da biblioteca ao criar uma aplicação interativa. Vamos explorar componentes reutilizáveis para apresentar dados dos gatos, como nome e foto, e usar estados e props para gerenciar essas informações. Com essa PoC, o objetivo é aprender como React facilita a criação de uma interface rápida e escalável, tanto para web quanto mobile.
+
+# O que é? 
+`React` é uma biblioteca JavaScript destinada ao desenvolvimento de interfaces de usuário (UI) de maneira interativa e eficiente, especialmente em projetos web e mobile. No contexto de webmobile, React permite criar aplicações que operam tanto em navegadores quanto em dispositivos móveis, proporcionando interfaces responsivas e altamente interativas.
+
+
 # Estrutura do Projeto NextJS 
 ## App
 Desde a versão 13, Next.js introduziu o App Router como um novo sistema de roteamento. Essa pasta substitui a antiga pasta pages, que era usada para criar rotas com base em arquivos.Dentro da pasta app, cada subpasta representa uma rota. Esta pasta é essencial para aplicação, porque é onde são definidas as rotas e componentes principais e ela contem subpastas para melhorar a organização:

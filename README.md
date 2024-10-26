@@ -21,6 +21,9 @@ Desde a versão 13, Next.js introduziu o App Router como um novo sistema de rote
 
 - **`components`**: Pasta exclusiva para componentes que serão reutilizados ao longo do projeto.
   
+![image](https://github.com/user-attachments/assets/1409922c-dd97-49c1-8fd4-5ca17fa0c2bd)
+
+  
 - **`favicon.ico`**: Arquivo de ícone de favorito. Esse ícone é exibido na aba do navegador ao lado do título da página, nos favoritos, e também em outros lugares onde o site está.
 - **`globals.css`**: Este arquivo contém os estilos globais da aplicação. No `globals.css`  os estilos são aplicados em todas as aplicações. É o local ideal para definir estilos universais, pois, ele é carregado uma vez e afeta todos os componentes e páginas da aplicação.
 ```css
